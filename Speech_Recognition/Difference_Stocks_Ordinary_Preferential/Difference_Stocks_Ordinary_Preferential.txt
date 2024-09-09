@@ -1,0 +1,8 @@
+E se eu perguntar para você o seguinte pessoal:
+Tem como extrair Apenas os ativos os stickers que tem final 4, apenas os que tem final 3?
+
+Isso é algo muito importante no mercado financeiro. O que a gente faz no dia a dia.
+
+A gente vai buscar aqui diferenciar as ações ordinárias das ações preferenciais não vou entrar em muito detalhe aqui no conceito do mercado em si que a gente vai explicar depois em um momento aqui nesse curso mas basicamente pessoal as ações ordinárias né e das suas preferenciais mudam com relação a preferência, direito a votos né, decisões da companhia, as ações preferenciais, por exemplo, Elas têm preferência no recebimento de proventos, não dão direito a voto, enfim, o que você precisa saber agora é que existem as ações ordinárias e as preferenciais, e elas têm diferenças entre elas. As ações ordinárias na bolsa brasileira terminam com três. Por exemplo: WEGE3, assim por diante.
+
+As ações preferenciais no final Elas têm um quatro então por exemplo Petro4, dentre outras, essas aqui são ações preferenciais. Pois bem, o exemplo que eu quero fazer com vocês é o seguinte a gente vai usar a estrutura de pandas que a gente aprendeu e todos os filtros e nós vamos buscar apenas as ações ordinárias

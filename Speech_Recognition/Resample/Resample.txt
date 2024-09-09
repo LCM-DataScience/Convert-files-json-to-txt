@@ -1,0 +1,8 @@
+Então você tem que dizer para ele assim o que é que eu quero fazer com cada coluna por exemplo:
+
+Ah (a coluna) OPEN calcula a média naquele mês;
+A HIGH você pega apenas o valor máximo;
+já para a LOW você calcula o desvio padrão;
+Para a CLOSE calcular a soma.
+
+Então isso é uma coisa importante aqui tá a gente precisa determinar para cada coluna como que a gente vai consolidá-las então a gente vai colocar aqui o método agg

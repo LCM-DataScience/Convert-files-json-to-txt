@@ -1,0 +1,15 @@
+eu acho que seria interessante Antes de eu começar
+
+antes da início aquela trabalho de estatística de análise de dados
+
+a respeito dos fundos eu acho que seria interessante eu estar dando uma geral uma geral na biblioteca trade com dados
+
+visto que eu realizei ali as alterações né o update do fundos deita né e
+
+eu entrei né já com tudo desenvolvido né e o que eu acompanhei foi o que eu consegui entender foi como eu consegui entender mais ou menos né porque é uma coisa complicada também de se explicar o que a Ariane alterou né porque a proposta dela eu acho bem interessante também que é que é fazer uma análise do que do que pode ser feito de diferente né na biblioteca e não só trabalhar no que já tá né
+
+tipo docStrings Beleza a gente faz as coisas a gente acerta do que já tem mas a proposta dela seria criar novas funções novas funcionalidades né para estar oferecendo essa experiência para os usuários né
+
+mas aí como eu disse antes de fazer aquele aquele estudo de caso aquele meu o que a gente já havia comentado né na sessão anterior eu acho que seria bacana eu tá dando uma geral na biblioteca
+
+Então como seria assim a melhor forma de estar entendendo como foi criada do zero né os primeiros módulos eu não sei se dessa forma talvez fosse ser interessante eu acho que talvez fosse interessante trabalhar dessa forma para entender né E até acompanhar ali a o desenvolvimento sugestões de novas funções novas funcionalidades

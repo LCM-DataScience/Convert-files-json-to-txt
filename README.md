@@ -9,3 +9,5 @@ Segue a descrição do código:
 · Escrita em Arquivo de Texto: Os dados formatados são escritos em um arquivo de texto (.txt) seguindo um padrão específico. No caso deste exemplo, os títulos são seguidos pelo conteúdo associado, separados por duas linhas em branco, e o arquivo resultante é salvo com a codificação UTF-8 para garantir a correta interpretação dos caracteres, especialmente em Português do Brasil
 
 · Adaptação para Português-BR: O código foi adaptado para manipular corretamente caracteres especiais e garantir que o texto seja interpretado corretamente em Português do Brasil.
+
+Aceito sugestões e aperfeiçoamentos 😎👍
